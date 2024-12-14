@@ -1,4 +1,4 @@
-d7d25197c9ce3e8e51fc8ce0cfaa9b38 *DESCRIPTION
+9230aeee23409604bf43f0520c0520fa *DESCRIPTION
 bd6a5c667843274740775666e65a8390 *NAMESPACE
 c9002005a5ab49678afdcc58d98c8da0 *R/CombineHittables.R
 6de06384254dd7b6c443a35804d68a06 *R/ExportVirusDataFrame.R
@@ -21,14 +21,14 @@ bb36ac89777f8714123f9899da481eba *R/exportVirusGt.R
 978d4cd801b1c73dfbb1895da1440f8f *R/importVirusTable.R
 05fa8087191057062ea8e28e8c7253a4 *R/preprocess_runs_bar.R
 7e2ee612676557a28268ad82a078752d *R/select_theme.R
-2ce85c9c26ac01982f9d082f2a22442f *R/sysdata.rda
+a75a5133f87a01ca1d768e759ad188d3 *R/sysdata.rda
 21dfbd2e5802860bf38c483ed9d02302 *R/vhRunsBarplot.R
 de82b2d910ad17865615ecaf8965ef85 *R/vhRunsTable.R
 159026ae431506ec4fb7c81814fc591a *R/vhSumHitsBarplot.R
 b26bafa4099e8bda04a19b56a29d5d96 *R/vh_sumhitbar_preprocessing.R
 c38385ab4981a04fe228194dc37b9e9d *R/vhgTabularRasa.R
 665d2f67c5e64feef744483b5694e1e2 *R/zzz.R
-c658a8f4606c632112210e5751b6b98e *README.md
+f67e30fd8fc18eb78e3c6c8c1d9a2cfe *README.md
 b15848896f22e960570538875df5056b *inst/CITATION
 5a6468bf208fb978997654d4e0475e72 *inst/extdata/virusgatherer.tsv
 45bd55a4436c2225d0e33510be38b8f6 *inst/extdata/virushunter.tsv
